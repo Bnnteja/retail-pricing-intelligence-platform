@@ -1,0 +1,6 @@
+aws_region         = "us-east-1"
+project            = "retail-pricing-intelligence-platform"
+env                = "dev"
+owner              = "bnnteja"
+bucket_name        = "retail-pricing-intelligence-bnnteja-tf-dev"
+glue_database_name = "retail_pricing_tf_db"

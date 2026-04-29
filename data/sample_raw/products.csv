@@ -1,0 +1,8 @@
+sku_id,product_name,category,unit_cost
+sku_1,Coke Can,drinks,0.5
+sku_2,Chips,snacks,0.7
+sku_3,Cigarettes,tobacco,6.0
+sku_4,Motor Oil,auto_accessories,8.0
+sku_5,Lottery Ticket,lottery,1.0
+sku_6,Car Wash Soap,car_care,4.0
+sku_7,Beer Can,beer_wine,1.2

@@ -1,0 +1,61 @@
+Retail Pricing Intelligence Platform - Data Quality Report
+
+======================================================================
+
+Missing values in processed_transactions:
+transaction_id    0
+store_id          0
+timestamp         0
+sku_id            0
+quantity          0
+unit_price        0
+total_amount      0
+product_name      0
+category          0
+unit_cost         0
+store_name        0
+city              0
+state             0
+gross_profit      0
+dtype: int64
+
+
+Missing values in fuel_margin_analysis:
+date                       0
+store_id                   0
+fuel_grade                 0
+retail_price               0
+supplier_cost              0
+gallons_sold               0
+competitor_price           0
+margin_per_gallon          0
+total_margin               0
+price_gap_vs_competitor    0
+dtype: int64
+
+
+Missing values in pricing_recommendations:
+date                       0
+store_id                   0
+fuel_grade                 0
+retail_price               0
+competitor_price           0
+margin_per_gallon          0
+price_gap_vs_competitor    0
+recommendation             0
+dtype: int64
+
+
+Duplicate rows in processed_transactions: 0
+
+
+Duplicate rows in fuel_margin_analysis: 0
+
+
+Duplicate rows in pricing_recommendations: 0
+
+
+Negative gross profit records: 0
+
+
+Negative fuel margin records: 0
